@@ -3,8 +3,8 @@ package ru.kk.task11week.service;
 import ru.kk.task11week._main._Main;
 
 public class CarRace extends Thread {
-    private Car car;
-    private int distance;
+    private final Car car;
+    private final int distance;
 
     public CarRace(Car car, int distance) {
         if (car == null) {
