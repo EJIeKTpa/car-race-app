@@ -1,6 +1,6 @@
-package ru.kk.task11week._main;
+package ru.kk.car_race_app._main;
 
-import ru.kk.task11week.service.*;
+import ru.kk.car_race_app.service.*;
 
 import java.util.ArrayList;
 import java.util.List;

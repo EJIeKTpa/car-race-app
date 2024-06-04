@@ -1,4 +1,4 @@
-package ru.kk.task11week.service;
+package ru.kk.car_race_app.service;
 
 public class EvenNumberPrinter extends Thread {
     public void run() {

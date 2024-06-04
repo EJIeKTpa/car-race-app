@@ -1,7 +1,7 @@
-package ru.kk.task11week.service;
+package ru.kk.car_race_app.service;
 
-import static ru.kk.task11week._main._Main.lock;
-import static ru.kk.task11week._main._Main.thread1Turn;
+import static ru.kk.car_race_app._main._Main.lock;
+import static ru.kk.car_race_app._main._Main.thread1Turn;
 
 public class NumberPrinter extends Thread {
     private final int threadNumber;

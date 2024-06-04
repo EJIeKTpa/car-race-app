@@ -1,6 +1,6 @@
-package ru.kk.task11week.service;
+package ru.kk.car_race_app.service;
 
-import ru.kk.task11week._main._Main;
+import ru.kk.car_race_app._main._Main;
 
 public class CarRace extends Thread {
     private final Car car;
